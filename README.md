@@ -1,6 +1,6 @@
 # 🧠 React Quiz App
 
-A quiz application built with React that uses `useReducer` for state management, and fetches questions from a mock API for dynamic content.
+A dynamic and interactive quiz app built with **React** that tests your knowledge while demonstrating mastery of hooks and reducer-based state management. This project focuses on clean component architecture, logical state flow using `useReducer`, and fetching quiz data from a mock API.
 
 ---
 
@@ -56,17 +56,17 @@ The app will run at: http://localhost:3000
 
 🌍 Deployment (Netlify)
 
-    Push your project to GitHub.
-    Connect your repo to Netlify.
-    Add environment variables if required.
-    Use these build settings:
-    Build command: npm run build
-    Publish directory: build
+Push your project to GitHub.
+Connect your repo to Netlify.
+Add environment variables if required.
+Use these build settings:
+Build command: npm run build
+Publish directory: build
 
 🧾 License
 
-    This project is open-source and free for learning and personal use.
+This project is open-source and free for learning and personal use.
 
 👋 About
 
-    This project represents my next step in mastering React — moving from useState to useReducer, learning structured state transitions, and handling dynamic API data to create real-world interactive apps.
+This project represents my next step in mastering React — moving from useState to useReducer, learningstructured state transitions, and handling dynamic API data to create real-world interactive apps.
